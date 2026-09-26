@@ -36,7 +36,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 Add your answer here...
 
----
+A protocol is basically a set of rules that devices follow to communicate with each other on a network.
+It’s like a common language that helps computers know how to send and receive data.
 
 # 🌐 Task 2: Internet and Networking
 
@@ -61,7 +62,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 Add your answer here...
 
----
+When a user accesses EpicReads from anywhere in the world, several networking processes happen. Packet switching breaks the website's data into smaller packets, which routers forward across networks toward the user's device. Each device involved in communication uses an IP address to identify the source and destination of packets. TCP helps ensure that the packets arrive reliably and in the correct order, retransmitting missing packets when necessary. HTTP is a protocol used by the browser and web server to communicate and exchange web resources. HTTPS is the secure version of HTTP. It uses encryption to protect information travelling between the user's browser and EpicReads, such as login details and passwords. Together, these networking technologies allow users around the world to communicate with and access websites such as EpicReads.
 
 # 🏗️ Task 3: Application Architecture & Stack
 
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Next.js (React framework for server-side rendering and routing)
+* Tailwind CSS(For styling)
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js & Express.js(For API development)
+* JWT(For user authentication)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL (For storing application data)
+* Sequelize (For database management and interaction with MySQL)
 
 ---
 
@@ -144,7 +145,7 @@ In **50–100 words**, explain in your own words:
 
 Add your answer here...
 
----
+DNS (Domain Name System) is like the phonebook of the internet. It translates human-readable domain names, such as epicreads.com, into IP addresses that computers use to locate servers. An A record should be used to connect EpicReads to 52.172.142.222 because an A record maps a domain name to an IPv4 address. Therefore, the DNS configuration would point epicreads.com to 52.172.142.222. The :3000 is a port number, not part of the IP address, so it is not included in the A record.
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
@@ -256,19 +257,19 @@ Add your post content here...
 
 Add your answer here...
 
----
+prompting Chatgpt for the defintion of a protocol in networking and Explaining what protocol entails using a simple real-life example. 
 
 ### What was difficult?
 
 Add your answer here...
 
----
+Hand drawing 2tier and 3tier Architecture;i got confused at some point.
 
 ### What will you improve next week?
 
 Add your answer here...
 
----
+i will try to pay attention to little details, and try to get a deep understanding a problem before checking for solution.
 
 ## 📌 About DMI & CloudAdvisory
 
