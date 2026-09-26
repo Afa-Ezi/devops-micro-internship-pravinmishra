@@ -237,9 +237,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://www.linkedin.com/posts/confidence-nwaokike-3375031ab_dmibypravinmishra-activity-7509723950805827584-8Fiw?utm_source=share&utm_medium=member_android&rcm=ACoAADEEwhsBZiJuBotEmjtrzpYcbklF96bP6fk
 
 ---
 
@@ -249,7 +247,36 @@ Paste the full text of your LinkedIn post here:
 
 Add your post content here...
 
----
+DMI Week 00 — Internet, Networking & Tools Basics
+
+I completed my first DMI assignment, which focused on some of the basic concepts I need to understand as I begin my DevOps journey.
+
+ChatGPT
+
+I learned how to use ChatGPT as a learning assistant to understand technical concepts. I explored what a networking protocol is and used a simple real-life example to make it easier to understand.
+
+Internet & Networking
+
+I learned how packet switching, IP addresses, TCP/IP, HTTP and HTTPS work together to allow users to access websites across the internet.
+
+Application Architecture
+
+I explored two-tier and three-tier application architectures. I hand-drew both diagrams, which was a little confusing at some point, but it helped me understand the roles of the frontend, backend and database.
+
+DNS
+
+I learned how DNS translates domain names into IP addresses and why an A record is used to connect a domain to an IPv4 address.
+
+VS Code Setup
+
+I set up my VS Code environment, worked with the integrated terminal in WSL/Ubuntu, practiced basic Linux commands such as whoami, pwd and ls, and customized my VS Code theme.
+
+This assignment gave me a better understanding of the basic concepts that form part of the foundation of DevOps. I'm looking forward to learning more and building my skills. 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Foundation Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/eTVpkhWe · Start your DevOps journey: https://lnkd.in/eymfMAa2
+
+#DMIByPravinMishra
+https://lnkd.in/eK_4wmEs
 
 # Reflection – Week 0
 
@@ -257,7 +284,7 @@ Add your post content here...
 
 Add your answer here...
 
-prompting Chatgpt for the defintion of a protocol in networking and Explaining what protocol entails using a simple real-life example. 
+Prompting ChatGPT for the definition of a protocol in networking and explaining what a protocol entails using a simple real-life example. 
 
 ### What was difficult?
 
@@ -269,7 +296,7 @@ Hand drawing 2tier and 3tier Architecture;i got confused at some point.
 
 Add your answer here...
 
-i will try to pay attention to little details, and try to get a deep understanding a problem before checking for solution.
+I will try to pay attention to little details and try to get a deeper understanding of a problem before looking for a solution.
 
 ## 📌 About DMI & CloudAdvisory
 
